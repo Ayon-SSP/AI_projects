@@ -6,7 +6,7 @@ import webbrowser
 import os
 import smtplib
 
-print("Hi!I'm Cortana")
+print("Hi!I'm bot X")
 
 MASTER = "Ayon..........."
 
